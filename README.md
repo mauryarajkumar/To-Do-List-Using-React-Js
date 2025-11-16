@@ -1,3 +1,42 @@
+# 📝 React Todo List App
+
+A simple, clean, and fully responsive Todo List application built with **React.js**.  
+This app allows users to:
+
+- Add new todos  
+- Mark todos as completed  
+- Delete todos  
+- View todos inside a modern, responsive card UI  
+
+This project is perfect for beginners learning React state management and component structure.
+
+---
+
+## 🚀 Features
+
+### ✔ Add Todos  
+Easily add items using the input form.
+
+### ✔ Mark as Completed  
+Click any todo to toggle the completed state (line-through effect).
+
+### ✔ Delete Todos  
+Each item includes a delete (×) button to remove it instantly.
+
+### ✔ Responsive Card UI  
+The entire list is displayed inside a beautiful card with hover effects and mobile responsiveness.
+
+### ✔ Clean Component Structure  
+- `App.jsx` → main logic  
+- `Todolistitems` → list item component  
+- `App.css` → styles (form + card + list)
+
+---
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
