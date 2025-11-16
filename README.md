@@ -1,5 +1,8 @@
 Live Link:- https://to-do-listitem.netlify.app/ 
 # 📝 React Todo List App
+Snap:-
+<img width="457" height="801" alt="image" src="https://github.com/user-attachments/assets/d962c2d7-bcd8-41d1-9b61-75740586b5e2" />
+
 
 A simple, clean, and fully responsive Todo List application built with **React.js**.  
 This app allows users to:
